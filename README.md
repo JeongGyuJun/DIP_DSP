@@ -1,7 +1,7 @@
 # DIP_DSP
 
-## 1. Digital Image Processor
+## 1. Digital Image Processing
 - 
 
-## 2. Digital Signal Processor
+## 2. Digital Signal Processing
 - 
