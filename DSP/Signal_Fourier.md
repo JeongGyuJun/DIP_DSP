@@ -98,6 +98,16 @@ a(0), a(n), b(n)은 각각의 성분(가중치)가 sin, cos 포함도를 결정�
 
 
 
+<img width="256" alt="스크린샷 2020-05-03 16 27 22" src="https://user-images.githubusercontent.com/45933225/80908460-f843fe00-8d5a-11ea-83a8-aed8ec14a33e.png">
+<img width="55" alt="스크린샷 2020-05-03 16 26 50" src="https://user-images.githubusercontent.com/45933225/80908450-e5c9c480-8d5a-11ea-9b00-b5c24713c81d.png">
+<img width="691" alt="스크린샷 2020-05-03 16 25 58" src="https://user-images.githubusercontent.com/45933225/80908438-c6329c00-8d5a-11ea-97b4-2dcb6d966589.png">
+<img width="691" alt="스크린샷 2020-05-03 16 26 17" src="https://user-images.githubusercontent.com/45933225/80908443-d185c780-8d5a-11ea-95c2-0fb31237ed27.png">
+<img width="357" alt="스크린샷 2020-05-03 16 24 52" src="https://user-images.githubusercontent.com/45933225/80908410-9edbcf00-8d5a-11ea-86ce-0c8ef9c496b2.png">
+<img width="250" alt="스크린샷 2020-05-03 16 25 05" src="https://user-images.githubusercontent.com/45933225/80908415-a69b7380-8d5a-11ea-8105-df8886b072f2.png">
+<img width="246" alt="스크린샷 2020-05-03 16 25 28" src="https://user-images.githubusercontent.com/45933225/80908431-b3b86280-8d5a-11ea-853f-5bc20e36cfff.png">
+<img width="402" alt="스크린샷 2020-05-03 16 24 14" src="https://user-images.githubusercontent.com/45933225/80908399-88ce0e80-8d5a-11ea-9e8a-4c3002e576f1.png">
+<img width="523" alt="스크린샷 2020-05-03 16 23 51" src="https://user-images.githubusercontent.com/45933225/80908387-79e75c00-8d5a-11ea-80c8-0319cc402aad.png">
+
 
 ----아직------
 - 푸리에 적분(Fourier Integral)
