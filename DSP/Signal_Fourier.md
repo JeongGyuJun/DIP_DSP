@@ -51,9 +51,9 @@
 
 급수
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908460-f843fe00-8d5a-11ea-83a8-aed8ec14a33e.png" width="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908460-f843fe00-8d5a-11ea-83a8-aed8ec14a33e.png" width="25%"></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908450-e5c9c480-8d5a-11ea-9b00-b5c24713c81d.png" width="15%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908450-e5c9c480-8d5a-11ea-9b00-b5c24713c81d.png" width="8%"></p>
 
 값이 특정한 값으로 수렴하는지 아니면 (음, 양) 무한대로 발산을 하는지 판단.
 
