@@ -53,7 +53,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908460-f843fe00-8d5a-11ea-83a8-aed8ec14a33e.png" width="50%"></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908450-e5c9c480-8d5a-11ea-9b00-b5c24713c81d.png" width="20%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908450-e5c9c480-8d5a-11ea-9b00-b5c24713c81d.png" width="15%"></p>
 
 값이 특정한 값으로 수렴하는지 아니면 (음, 양) 무한대로 발산을 하는지 판단.
 
@@ -63,38 +63,37 @@
 
 - 테일러 급수
 
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908438-c6329c00-8d5a-11ea-97b4-2dcb6d966589.png" width="70%"></p>
 
 - 매클로린 급수
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908438-c6329c00-8d5a-11ea-97b4-2dcb6d966589.png" width="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908443-d185c780-8d5a-11ea-95c2-0fb31237ed27.png" width="70%"></p>
 
 - 푸리에 급수(Fourier Series)
 주기가 있는 임의의 함수를 삼각함수의 급수로 바꾸어 나타내는 방법.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908443-d185c780-8d5a-11ea-95c2-0fb31237ed27.png" width="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908410-9edbcf00-8d5a-11ea-86ce-0c8ef9c496b2.png" width="50%"></p>
 
 위 a(0)은  y절편의 이동을 나타냄으로써 따로 표기한 이유는 cos(0) = 1 sin(0) = 0의 값을 지니기 때문이다.
 a(0), a(n), b(n)은 각각의 성분(가중치)가 sin, cos 포함도를 결정한다.
 
 오일러 공식(e^x)
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908410-9edbcf00-8d5a-11ea-86ce-0c8ef9c496b2.png" width="50%"></p>
-
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908415-a69b7380-8d5a-11ea-8105-df8886b072f2.png" width="50%"></p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908431-b3b86280-8d5a-11ea-853f-5bc20e36cfff.png" width="50%"></p>
 
 오일러 공식의 유도
 
 1. 삼각함수의 직교성(Orthogonal Function)
 삼각함수 계의 각 함수들은 한 주기 구간에서 서로 직교함.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908431-b3b86280-8d5a-11ea-853f-5bc20e36cfff.png" width="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908399-88ce0e80-8d5a-11ea-9e8a-4c3002e576f1.png" width="50%"></p>
 
 삼각함수는 서로 직교하므로 따라서 두 함수를 내적하면 0이 나옴.
 이어서 함수에서도 공간에서 정의된 두 직교 함수의 내적은 0이다.
 
 푸리에 합성
-
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908399-88ce0e80-8d5a-11ea-9e8a-4c3002e576f1.png" width="50%"></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908387-79e75c00-8d5a-11ea-80c8-0319cc402aad.png" width="50%"></p>
 
