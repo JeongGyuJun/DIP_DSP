@@ -18,7 +18,7 @@
 
 연속과 이산 신호 그래프
 
-그림
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908496-422ce400-8d5b-11ea-8ed1-aa82db167f45.png" width="50%"></p>
 
 아날로그 신호(Analog Signal) - 연속시간 신호이면서 동시에 연속크기 신호
 디지털 신호(Digital Signal) - 이산시간 신호이면서 동시에 이산크기 신호
@@ -51,7 +51,7 @@
 
 급수
 
-그림
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908460-f843fe00-8d5a-11ea-83a8-aed8ec14a33e.png" width="50%"></p>
 
 값이 특정한 값으로 수렴하는지 아니면 (음, 양) 무한대로 발산을 하는지 판단.
 
@@ -61,52 +61,45 @@
 
 - 테일러 급수
 
-그림
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908450-e5c9c480-8d5a-11ea-9b00-b5c24713c81d.png" width="50%"></p>
 
 - 매클로린 급수
 
-그림
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908438-c6329c00-8d5a-11ea-97b4-2dcb6d966589.png" width="50%"></p>
 
 - 푸리에 급수(Fourier Series)
 주기가 있는 임의의 함수를 삼각함수의 급수로 바꾸어 나타내는 방법.
 
-그림
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908443-d185c780-8d5a-11ea-95c2-0fb31237ed27.png" width="50%"></p>
 
 위 a(0)은  y절편의 이동을 나타냄으로써 따로 표기한 이유는 cos(0) = 1 sin(0) = 0의 값을 지니기 때문이다.
 a(0), a(n), b(n)은 각각의 성분(가중치)가 sin, cos 포함도를 결정한다.
 
 오일러 공식(e^x)
 
-그림
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908410-9edbcf00-8d5a-11ea-86ce-0c8ef9c496b2.png" width="50%"></p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908415-a69b7380-8d5a-11ea-8105-df8886b072f2.png" width="50%"></p>
 
 오일러 공식의 유도
 
 1. 삼각함수의 직교성(Orthogonal Function)
 삼각함수 계의 각 함수들은 한 주기 구간에서 서로 직교함.
 
-그림
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908431-b3b86280-8d5a-11ea-853f-5bc20e36cfff.png" width="50%"></p>
 
 삼각함수는 서로 직교하므로 따라서 두 함수를 내적하면 0이 나옴.
 이어서 함수에서도 공간에서 정의된 두 직교 함수의 내적은 0이다.
 
 푸리에 합성
 
-그림
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908399-88ce0e80-8d5a-11ea-9e8a-4c3002e576f1.png" width="50%"></p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908387-79e75c00-8d5a-11ea-80c8-0319cc402aad.png" width="50%"></p>
 
 위와 같이 분석을 하였을 때 각 함수의 가중치 비율을 알 수 있으며 주기를 선형조합하므로 다음과 같이 합성 그래프를 그릴 수 있다.
 비교적으로 선형대수학은 계수의 합은 유한하지만 푸리에는 무한 급수 합을 구한다.
 
-
-<img width="446" alt="스크린샷 2020-05-03 16 29 27" src="https://user-images.githubusercontent.com/45933225/80908496-422ce400-8d5b-11ea-8ed1-aa82db167f45.png">
-<img width="256" alt="스크린샷 2020-05-03 16 27 22" src="https://user-images.githubusercontent.com/45933225/80908460-f843fe00-8d5a-11ea-83a8-aed8ec14a33e.png">
-<img width="55" alt="스크린샷 2020-05-03 16 26 50" src="https://user-images.githubusercontent.com/45933225/80908450-e5c9c480-8d5a-11ea-9b00-b5c24713c81d.png">
-<img width="691" alt="스크린샷 2020-05-03 16 25 58" src="https://user-images.githubusercontent.com/45933225/80908438-c6329c00-8d5a-11ea-97b4-2dcb6d966589.png">
-<img width="691" alt="스크린샷 2020-05-03 16 26 17" src="https://user-images.githubusercontent.com/45933225/80908443-d185c780-8d5a-11ea-95c2-0fb31237ed27.png">
-<img width="357" alt="스크린샷 2020-05-03 16 24 52" src="https://user-images.githubusercontent.com/45933225/80908410-9edbcf00-8d5a-11ea-86ce-0c8ef9c496b2.png">
-<img width="250" alt="스크린샷 2020-05-03 16 25 05" src="https://user-images.githubusercontent.com/45933225/80908415-a69b7380-8d5a-11ea-8105-df8886b072f2.png">
-<img width="246" alt="스크린샷 2020-05-03 16 25 28" src="https://user-images.githubusercontent.com/45933225/80908431-b3b86280-8d5a-11ea-853f-5bc20e36cfff.png">
-<img width="402" alt="스크린샷 2020-05-03 16 24 14" src="https://user-images.githubusercontent.com/45933225/80908399-88ce0e80-8d5a-11ea-9e8a-4c3002e576f1.png">
-<img width="523" alt="스크린샷 2020-05-03 16 23 51" src="https://user-images.githubusercontent.com/45933225/80908387-79e75c00-8d5a-11ea-80c8-0319cc402aad.png">
 
 
 
