@@ -18,7 +18,7 @@
 
 연속과 이산 신호 그래프
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908943-14e23500-8d5f-11ea-9ced-d208ef4fac8b.png" width="50%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908943-14e23500-8d5f-11ea-9ced-d208ef4fac8b.png" width="75%"></p>
 
 아날로그 신호(Analog Signal) - 연속시간 신호이면서 동시에 연속크기 신호
 디지털 신호(Digital Signal) - 이산시간 신호이면서 동시에 이산크기 신호
