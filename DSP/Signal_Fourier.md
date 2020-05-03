@@ -35,7 +35,7 @@
 따라서 무한히 어떤 항을 더함으로써 주기를 얻을 수 있음.
 결과적으로 복잡한 주기함수를 간단한 주기함수로 나타내기 위함.
 
-        - DFT, FFT
+#### - DFT, FFT
 
 이산 푸리에 변환(DFT : Discrete Fourier Transform)
 이산화된 시간 영역의 데이터를 이산화된 주파수 영역으로 변환해주는 알고리즘.
@@ -43,13 +43,14 @@
 고속 푸리에 변환(FFT : Fast Fourier Transform) - 
 연속된 영역에서 처리함으로써 이산 푸리에 변환의 계산량을 줄이는 알고리즘.
 
-2. 푸리에 해석
+#### 1. 푸리에 해석
+
 해석하고자 하는 함수의 차원을 변경하여 다른 시각에서 상태를 관측할 수 있다.
 다음과 같이 두 가지 방법으로 나눔.
 
         - 푸리에 급수, 푸리에 적분 
 
-급수
+##### 급수
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908460-f843fe00-8d5a-11ea-83a8-aed8ec14a33e.png" width="25%"></p>
 
@@ -57,19 +58,19 @@
 
 값이 특정한 값으로 수렴하는지 아니면 (음, 양) 무한대로 발산을 하는지 판단.
 
-급수의 변화
+##### 급수의 변화
 
        - 테일러 급수 -> 매클로린 급수 -> 푸리에 급수
 
-- 테일러 급수
+##### - 테일러 급수
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908438-c6329c00-8d5a-11ea-97b4-2dcb6d966589.png" width="70%"></p>
 
-- 매클로린 급수
+##### - 매클로린 급수
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908443-d185c780-8d5a-11ea-95c2-0fb31237ed27.png" width="70%"></p>
 
-- 푸리에 급수(Fourier Series)
+##### - 푸리에 급수(Fourier Series)
 주기가 있는 임의의 함수를 삼각함수의 급수로 바꾸어 나타내는 방법.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908399-88ce0e80-8d5a-11ea-9e8a-4c3002e576f1.png" width="50%"></p>
@@ -77,7 +78,7 @@
 위 a(0)은  y절편의 이동을 나타냄으로써 따로 표기한 이유는 cos(0) = 1 sin(0) = 0의 값을 지니기 때문이다.
 a(0), a(n), b(n)은 각각의 성분(가중치)가 sin, cos 포함도를 결정한다.
 
-오일러 공식(e^x)
+##### 오일러 공식(e^x)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908415-a69b7380-8d5a-11ea-8105-df8886b072f2.png" width="50%"></p>
 
@@ -93,14 +94,12 @@ a(0), a(n), b(n)은 각각의 성분(가중치)가 sin, cos 포함도를 결정�
 삼각함수는 서로 직교하므로 따라서 두 함수를 내적하면 0이 나옴.
 이어서 함수에서도 공간에서 정의된 두 직교 함수의 내적은 0이다.
 
-푸리에 합성
+##### 푸리에 합성
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/80908387-79e75c00-8d5a-11ea-80c8-0319cc402aad.png" width="50%"></p>
 
 위와 같이 분석을 하였을 때 각 함수의 가중치 비율을 알 수 있으며 주기를 선형조합하므로 다음과 같이 합성 그래프를 그릴 수 있다.
 비교적으로 선형대수학은 계수의 합은 유한하지만 푸리에는 무한 급수 합을 구한다.
-
-
 
 
 ----아직------
